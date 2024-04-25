@@ -43,7 +43,7 @@
     "expo-constants": "~14.4.1",
     "expo-file-system": "~15.4.0",
     "expo-image-loader": "~4.3.0",
-    "expo-modules-core": "~0.2.0",
+    "expo-modules-core": "~1.11.13",
     "find-up": "~5.0.0",
     "unimodules-app-loader": "~2.2.0",
     "unimodules-task-manager-interface": "~6.2.0"
